@@ -1,13 +1,7 @@
 
 # Hi 👋
 
-I'm a student learning programming and software development.
 
-## 🚀 About Me
-- 🎓 I'm a student and aspiring developer.
-- 💻 I'm learning programming step by step.
-- 🌱 I'm working on my first projects.
-- 🎯 My goal is to become a skilled developer.
 
 ## 🛠️ Skills I'm Learning
 - Python 🐍
